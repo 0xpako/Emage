@@ -6,6 +6,7 @@ export default function Index() {
     <Layout>
       <head>
       <title>Emage Starter</title>
+      <link rel="shortcut icon" href="/favicon256.png" />
       </head>
       <div className="flex flex-col items-center justify-center">
         <main className="flex flex-col items-center justify-between pt-10">
