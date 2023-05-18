@@ -12,11 +12,13 @@ export default function Nav() {
       >
         <div className="flex flex-row items-center">
           <span>
-            <img
-              src="./public/favicon256.png"
+            <svg
               width="32"
               height="32"
-                >
+              viewBox="0 0 32 32"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
               <rect width="100%" height="100%" rx="16" fill="#000"></rect>
               <path
                 fillRule="evenodd"
