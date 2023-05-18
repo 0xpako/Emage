@@ -13,7 +13,7 @@ export default function Nav() {
         <div className="flex flex-row items-center">
           <span>
             <img
-              src="./favicon256.png"
+              src="./public/favicon256.png"
               width="32"
               height="32"
                 >
