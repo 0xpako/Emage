@@ -55,9 +55,6 @@ export default function Nav() {
               <a style={{ margin: "0 .5em" }} href="/">
                 Home
               </a>
-              <a style={{ margin: "0 .5em" }} className="mx-2" href="/products">
-                Products
-              </a>
               <a style={{ margin: "0 .5em" }} className="mx-2" href="/popular">
                 Popular
               </a>
