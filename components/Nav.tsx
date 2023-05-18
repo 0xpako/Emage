@@ -14,17 +14,13 @@ export default function Nav() {
           <ul className="flex items-center content-center">
             <li className="ml-2 text-gray-200">
               <a href="/">
-                <svg
+                <img
+                  src="./public/favicon256.png"
                   viewBox="0 0 24 24"
-                  width="32"
-                  height="32"
-                  stroke="currentColor"
-                  strokeWidth="1"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  fill="none"
-                  shapeRendering="geometricPrecision"
-                ></svg>
+                  width=32px
+                  height=32px
+                  
+                ></img>
               </a>
             </li>
             <li className="font-medium" style={{ letterSpacing: ".01px" }}>
