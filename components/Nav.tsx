@@ -53,10 +53,16 @@ export default function Nav() {
           <nav className="flex-row inline-flex items-center">
             <span className="ml-2 h-full flex items-center cursor-not-allowed text-accents-5">
               <a style={{ margin: "0 .5em" }} href="/">
-                Home
+                Starter
+              </a>
+              <a style={{ margin: "0 .5em" }} className="mx-1" href="#">
+                Emage-Website
               </a>
               <a style={{ margin: "0 .5em" }} className="mx-2" href="/popular">
-                Popular
+                Sample
+              </a>
+              <a style={{ margin: "0 .5em" }} className="mx-3" href="#">
+                Docs
               </a>
             </span>
             <span className="ml-2 h-full flex items-center cursor-not-allowed text-accents-5"></span>
