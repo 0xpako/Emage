@@ -5,7 +5,6 @@ export default function Index() {
   return (
     <Layout>
       <title>Emage Starter</title>
-      <link rel="icon" href="https://raw.githubusercontent.com/0xpako/0xpako/main/images/favicon256.png">
       <div className="flex flex-col items-center justify-center">
         <main className="flex flex-col items-center justify-between pt-10">
           <div className="flex flex-col items-center flex-1 px-4 sm:px-20 text-center z-10 sm:pt-10 mb-16">
