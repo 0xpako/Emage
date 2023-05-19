@@ -17,7 +17,7 @@ export default function Nav() {
            
             </li>
             <li className="font-medium" style={{ letterSpacing: ".01px" }}>
-              <a href="/">Acme Products</a>
+              <a href="/">Emage</a>
             </li>
           </ul>
         </div>
