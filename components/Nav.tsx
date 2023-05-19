@@ -30,10 +30,7 @@ export default function Nav() {
               <a style={{ margin: "0 .5em" }} className="mx-1" href="#">
                 Emage-Website
               </a>
-              <a style={{ margin: "0 .5em" }} className="mx-2" href="/popular">
-                Sample
-              </a>
-              <a style={{ margin: "0 .5em" }} className="mx-3" href="#">
+              <a style={{ margin: "0 .5em" }} className="mx-2" href="#">
                 Docs
               </a>
             </span>
