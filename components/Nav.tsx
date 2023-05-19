@@ -27,10 +27,10 @@ export default function Nav() {
               <a style={{ margin: "0 .5em" }} href="/">
                 Starter
               </a>
-              <a style={{ margin: "0 .5em" }} className="mx-1" href="#">
+              <a style={{ margin: "0 .5em" }} className="mx-1" href="https://emage.0xpako.com/">
                 Emage-Website
               </a>
-              <a style={{ margin: "0 .5em" }} className="mx-2" href="#">
+              <a style={{ margin: "0 .5em" }} className="mx-2" href="https://github.com/0xpako/Emage">
                 Docs
               </a>
             </span>
