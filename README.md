@@ -23,9 +23,9 @@ Emage framework uses Build Output API to support features such as:
 
 ### Links
 
-- [Website](#)
-- [Docs](#)
-- [Starter Kit Showcase](#)
+- [Website](https://emage.0xpako.com/)
+- [Docs](https://github.com/0xpako/Emage)
+- [Starter Kit Showcase](https://emage-beta.vercel.app/)
 
 ### Creator Note
 
