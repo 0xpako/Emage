@@ -1,6 +1,7 @@
 # Emage Framework
 
 <img align="center" src="https://raw.githubusercontent.com/0xpako/Emage/main/public/favicon256.png" alt="emage logo" height="100" width="100" />
+<img align="center" src="https://raw.githubusercontent.com/0xpako/Emage/main/public/ScreenshotEmage.jpg" alt="emage logo" height="350" width="227" />
 
 ### About
 
