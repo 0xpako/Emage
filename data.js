@@ -4,13 +4,13 @@ export default [
     name: "Orange Art One",
     price: 150,
     color: "white",
-    src: "https://raw.githubusercontent.com/0xpako/Emage/main/public/artone.webp",
+    src: "./artone.webp",
   },
   {
     id: 2,
     name: "Orange Art Two",
     price: 135,
-    src: "https://raw.githubusercontent.com/0xpako/Emage/main/public/arttwo.webp",
+    src: "./arttwo.webp",
   },
   {
     id: 3,
