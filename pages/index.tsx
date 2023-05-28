@@ -5,7 +5,7 @@ export default function Index() {
   return (
     <Layout>
       <head>
-      <title>Emage Starter</title>
+      <title>TyseraTS Starter</title>
       <link rel="shortcut icon" href="/favicon.ico" />
       </head>
       <div className="flex flex-col items-center justify-center">
@@ -15,7 +15,7 @@ export default function Index() {
               Here's where your app starts!
             </h1>
             <p className="mt-4 sm:text-xl text-lg text-gray-700">
-              Put anything you can e-magine here
+              Put anything you can imagine here
             </p>
           </div>
           <Image src="/landing-white.png" height={600} width={750} />

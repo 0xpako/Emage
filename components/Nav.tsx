@@ -17,7 +17,7 @@ export default function Nav() {
            
             </li>
             <li className="font-medium" style={{ letterSpacing: ".01px" }}>
-              <a href="/">Emage</a>
+              <a href="/">TyseraTS</a>
             </li>
           </ul>
         </div>
@@ -28,7 +28,7 @@ export default function Nav() {
                 Starter
               </a>
               <a style={{ margin: "0 .5em" }} className="mx-1" href="https://emage.0xpako.com/">
-                Emage-Website
+                TyseraTS-Website
               </a>
               <a style={{ margin: "0 .5em" }} className="mx-2" href="https://github.com/0xpako/Emage">
                 Docs
